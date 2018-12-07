@@ -1,4 +1,4 @@
 #!/bin/bash
-# written by Ryuichi Ueda
+# written by R. Ueda
 
 echo hoge
